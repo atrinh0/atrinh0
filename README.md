@@ -1,6 +1,11 @@
 ![](https://media0.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
 
-### 👨🏻‍💻 Learning
+### Hi, I'm An 👋🏼
+
+I’m a software engineer with over 10 years of commercial iOS development experience.<br>
+My purpose is to create apps that people just love to use. 
+
+### 🧐 Learning
 
 <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-64x64.png"></a>
 
