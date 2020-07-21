@@ -1,3 +1,5 @@
+![](https://media0.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
+
 ### 👨🏻‍💻 Learning
 
 <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-64x64.png"></a>
