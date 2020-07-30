@@ -1,6 +1,6 @@
 ![](https://badges.pufler.dev/visits/atrinh0/atrinh0?color=black&logo=github)
 
-<img src="./images/avatar2020.png" width="320"/>
+<img src="https://github.com/atrinh0/atrinh0/blob/master/images/avatar2020.png?raw=true" width="320"/>
 
 ### Hi, I'm An 👋🏼
 
