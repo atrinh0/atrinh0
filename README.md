@@ -1,8 +1,6 @@
 ![](https://badges.pufler.dev/visits/atrinh0/atrinh0?color=black&logo=github)
 
-<img src="https://github.com/atrinh0/atrinh0/blob/master/images/avatar2020.png?raw=true" width="320"/>
-
-### Hi, I'm An 👋🏼
+<img src="https://github.com/atrinh0/atrinh0/blob/master/images/avatar2020.png?raw=true" width="512"/>
 
 I’m a software engineer with over 10 years of commercial iOS development experience.<br>
 My purpose is to create apps that people just love to use. 
