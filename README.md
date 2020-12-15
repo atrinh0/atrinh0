@@ -5,11 +5,11 @@
 I’m a software engineer with over 10 years of commercial iOS development experience.<br>
 My purpose is to create apps that people just love to use. 
 
-<a href="https://twitter.com/atrinh"><img src="https://img.icons8.com/ios-filled/64/333333/twitter.svg" width="32"/></a>
+<a href="https://twitter.com/atrinh"><img src="https://img.icons8.com/ios-filled/64/555555/twitter.svg" width="32"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/atrinh0/"><img src="https://img.icons8.com/ios-filled/64/333333/linkedin.svg" width="32"/></a>
+<a href="https://www.linkedin.com/in/atrinh0/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
 &nbsp;
-<a href="https://www.monzo.me/an"><img src="https://img.icons8.com/ios-filled/64/333333/monzo.svg" width="32"/></a>
+<a href="https://www.monzo.me/an"><img src="https://img.icons8.com/ios-filled/64/555555/monzo.svg" width="32"/></a>
 
 ### 🧐 Learning
 
