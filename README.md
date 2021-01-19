@@ -29,7 +29,7 @@ My purpose is to create apps that people just love to use.
 &nbsp;
 <a href="https://www.atrinh.com/list"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/27/74/bd/2774bd0d-ff82-6860-ac7d-714dbc802176/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
 &nbsp;
-<a href="https://github.com/atrinh0/covid19"><img src="https://raw.githubusercontent.com/atrinh0/covid19/master/images/Icon.png" width="64" height="64"></a>
+<a href="https://www.atrinh.com/covid"><img src="https://raw.githubusercontent.com/atrinh0/covid19/master/images/Icon.png" width="64" height="64"></a>
 
 ### 🌳 Work
 
