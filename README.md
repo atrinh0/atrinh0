@@ -11,6 +11,8 @@ My purpose is to create apps that people just love to use.
 &nbsp;
 <a href="https://www.monzo.me/an"><img src="https://img.icons8.com/ios-filled/64/555555/monzo.svg" width="32"/></a>
 
+<img src="https://www.atrinh.com/list/images/appclip.png" width="260"/>
+
 ### 🧐 Learning
 
 <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-128x128.png" width="64" height="64"></a>
