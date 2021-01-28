@@ -9,7 +9,7 @@ My purpose is to create apps that people just love to use.
 &nbsp;
 <a href="https://www.linkedin.com/in/atrinh0/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
 &nbsp;
-<a href="https://honk.me/atrinh"><img src="https://raw.githubusercontent.com/atrinh0/covid19/master/images/honk.png" width="32"></a>
+<a href="https://honk.me/atrinh"><img src="https://raw.githubusercontent.com/atrinh0/atrinh0/master/images/honk.png" width="32"></a>
 &nbsp;
 <a href="https://www.monzo.me/an"><img src="https://img.icons8.com/ios-filled/64/555555/monzo.svg" width="32"/></a>
 
