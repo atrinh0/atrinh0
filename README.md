@@ -15,6 +15,8 @@ My purpose is to create apps that people just love to use.
 
 Create a list, complete it, repeat it.
 
+> 100% SwiftUI, App Clip, Widget, Drag & drop support, Dark mode support, Voiceover & Dynamic Text support, Localised to 32 languages, Taptic feedback
+
 <img src="https://www.atrinh.com/list/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/hero2.png" width="300">
 
 <img src="https://www.atrinh.com/list/images/appclip.png" width="200">
@@ -26,6 +28,8 @@ Create a list, complete it, repeat it.
 ## <img class="logo" src="https://www.atrinh.com/big/images/appicon.svg" width="32"> Make It Big
 
 Show large text on your screen.
+
+> Over 650,000 downloads, Widget, Action Extension, Dark mode support, Voiceover & Dynamic Text support, Localised to 37 languages, Taptic feedback
 
 <img src="https://www.atrinh.com/big/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/big/images/hero2.png" width="300">
 
