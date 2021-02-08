@@ -15,11 +15,21 @@ My purpose is to create apps that people just love to use.
 
 Create a list, complete it, repeat it.
 
-<img src="https://www.atrinh.com/list/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/hero2.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/appclip.png" width="260">
+<img src="https://www.atrinh.com/list/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/hero2.png" width="300">
+
+<img src="https://www.atrinh.com/list/images/appclip.png" width="200">
 
 <a href="https://2020.airport.community"><img src="https://airport.community/images/logo2.svg" width="32"> Airport Design Award</a>
 
 <a href="https://apps.apple.com/us/app/id1528701640"><img src="https://www.atrinh.com/list/images/download.svg"></a>
+
+## <img class="logo" src="https://www.atrinh.com/big/images/appicon.svg" width="32"> Make It Big
+
+Show large text on your screen.
+
+<img src="https://www.atrinh.com/big/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/big/images/hero2.png" width="300">
+
+<a href="https://apps.apple.com/us/app/id479282584"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
 ### 🧪 Experiments
 
