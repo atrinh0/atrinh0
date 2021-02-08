@@ -11,9 +11,15 @@ My purpose is to create apps that people just love to use.
 &nbsp;
 <a href="https://honk.me/atrinh"><img src="https://raw.githubusercontent.com/atrinh0/atrinh0/master/images/honk.png" width="32"></a>
 
-### 🏆 Award
+## <img class="logo" src="https://www.atrinh.com/list/images/appicon.svg" width="32"> A Repeatable List
 
-<a href="https://2020.airport.community"><img src="https://airport.community/images/logo2.svg" width="64" height="64"> Airport Design Award</a> for <a href="https://www.atrinh.com/list/index.html">A Repeatable List</a> 🥳
+Create a list, complete it, repeat it.
+
+<img src="https://www.atrinh.com/list/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/hero2.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/appclip.png" width="260">
+
+<a href="https://2020.airport.community"><img src="https://airport.community/images/logo2.svg" width="32"> Airport Design Award</a>
+
+<a href="https://apps.apple.com/us/app/id1528701640"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
 ### 🧪 Experiments
 
