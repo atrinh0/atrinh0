@@ -35,6 +35,16 @@ Show large text on your screen.
 
 <a href="https://apps.apple.com/us/app/id479282584"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
+## <img class="logo" src="https://www.atrinh.com/covid/images/appicon.svg" width="32"> UK COVID-19 Statistics
+
+Track the latest coronavirus (COVID-19) daily new cases and deaths in the UK.
+
+> Open-sourced, 100% SwiftUI, Widget, Background task to fetch periodically, local notifications
+
+<img src="https://www.atrinh.com/covid/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/covid/images/hero2.png" width="300">
+
+<a href="https://github.com/atrinh0/covid19"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
+
 ### 🧪 Experiments
 
 <a href="https://github.com/atrinh0/sfsymbols"><img src="https://raw.githubusercontent.com/atrinh0/sfsymbols/master/images/sfsymbols-logo.png" width="80" height="80"></a>
