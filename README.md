@@ -45,11 +45,25 @@ Track the latest coronavirus (COVID-19) daily new cases and deaths in the UK.
 
 <a href="https://github.com/atrinh0/covid19"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
 
-## 🧪 Experiments
+# SF Symbols Browser
 
-<a href="https://github.com/atrinh0/sfsymbols"><img src="https://raw.githubusercontent.com/atrinh0/sfsymbols/master/images/sfsymbols-logo.png" width="80" height="80"></a>
-&nbsp;
-<a href="https://github.com/atrinh0/buttoncraft"><img src="https://raw.githubusercontent.com/atrinh0/buttoncraft/master/images/Icon.png" width="80" height="80"></a>
+SwiftUI app to search and showcase SF Symbols 🔎
+
+> Open-sourced, 100% SwiftUI
+
+<img src="https://raw.githubusercontent.com/atrinh0/sfsymbols/develop/images/search.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/atrinh0/sfsymbols/develop/images/sort.gif" width="260"/>
+
+<a href="https://github.com/atrinh0/sfsymbols"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
+
+# buttoncraft
+
+SwiftUI app to allow other developers craft that perfect SwiftUI button effect 👌🏼
+
+> Open-sourced, 100% SwiftUI
+
+<img src="https://github.com/atrinh0/buttoncraft/blob/master/images/demo.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atrinh0/buttoncraft/blob/master/images/copycode.gif" width="260"/>
+
+<a href="https://github.com/atrinh0/buttoncraft"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
 
 ## 🌱 Personal apps
 
