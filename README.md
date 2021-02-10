@@ -29,7 +29,7 @@ Create a list, complete it, repeat it.
 
 Show large text on your screen.
 
-> Over 650,000 downloads, Widget, Action Extension, Dark mode support, Voiceover & Dynamic Text support, Localised to 37 languages, Taptic feedback
+> Over 650,000 downloads, Widget, Action Extension, Dark mode support, Voiceover & Dynamic Text support, Localised to 37 languages, Taptic feedback, Custom App Icons, URL Scheme deeplinking, Using SF Symbols
 
 <img src="https://www.atrinh.com/big/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/big/images/hero2.png" width="300">
 
