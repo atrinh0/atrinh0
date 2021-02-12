@@ -35,7 +35,7 @@ Show large text on your screen.
 
 <a href="https://apps.apple.com/us/app/id479282584"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
-<img src="https://github.com/atrinh0/atrinh0/blob/master/images/shortcut.png?raw=true" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.icloud.com/shortcuts/f48dca42d25340c894722ab517aa9393"><img src="https://github.com/atrinh0/atrinh0/blob/master/images/shortcut_icon.png?raw=true" width="64"> Add to Siri</a>
+<img src="https://github.com/atrinh0/atrinh0/blob/master/images/shortcut.png?raw=true" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.icloud.com/shortcuts/f48dca42d25340c894722ab517aa9393"><img src="https://github.com/atrinh0/atrinh0/blob/master/images/shortcut_icon.png?raw=true" width="64"> <img src="https://github.com/atrinh0/atrinh0/blob/master/images/addtosiri.png?raw=true" height="44"></a>
 > Siri Shortcut: Allows you to dictate text, then enlarges it in the Make It Big app
 
 # <img class="logo" src="https://www.atrinh.com/covid/images/appicon.svg" width="32"> UK COVID-19 Statistics
