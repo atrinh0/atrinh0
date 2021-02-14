@@ -37,7 +37,7 @@ Show large text on your screen.
 
 <img src="https://github.com/atrinh0/atrinh0/blob/master/images/shortcut.png?raw=true" width="260"/>
 
-<a href="https://www.icloud.com/shortcuts/f48dca42d25340c894722ab517aa9393"><img src="https://github.com/atrinh0/atrinh0/blob/master/images/addtosiri.png?raw=true" height="40"></a>
+<a href="https://www.icloud.com/shortcuts/f48dca42d25340c894722ab517aa9393"><img src="https://github.com/atrinh0/atrinh0/blob/master/images/addshortcut.png?raw=true" height="40"></a>
 
 > Siri Shortcut: Allows you to dictate text, then enlarges it in the Make It Big app
 
