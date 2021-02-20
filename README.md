@@ -51,6 +51,16 @@ Track the latest coronavirus (COVID-19) daily new cases and deaths in the UK.
 
 <a href="https://github.com/atrinh0/covid19"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
 
+# <img class="logo" src="https://www.atrinh.com/battery/images/appicon.svg" width="32"> Battery Level - Portal
+
+Monitor the current battery level of your device. As you charge your device, the battery level will be announced.
+
+> Dark mode support, Custom App Icons, Taptic feedback, Siri Shortcuts
+
+<img src="https://www.atrinh.com/battery/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/battery/images/hero2.png" width="300">
+
+<a href="https://apps.apple.com/us/app/id1458111693"><img src="https://www.atrinh.com/list/images/download.svg"></a>
+
 # SF Symbols Browser
 
 SwiftUI app to search and showcase SF Symbols 🔎
