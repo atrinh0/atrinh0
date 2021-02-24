@@ -17,6 +17,10 @@ Create a list, complete it, repeat it.
 
 > 100% SwiftUI, App Clip, Widget, Drag & drop support, Dark mode support, Voiceover & Dynamic Text support, Localised to 32 languages, Taptic feedback
 
+🤩 Featured by  Apple.
+
+<img src="https://raw.githubusercontent.com/atrinh0/atrinh0/master/images/featured.png" width="800">
+
 <img src="https://www.atrinh.com/list/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/hero2.png" width="300">
 
 <img src="https://github.com/atrinh0/atrinh0/blob/master/images/appclipanim.gif?raw=true" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/appclip.png" width="200">
