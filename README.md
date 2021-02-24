@@ -19,7 +19,7 @@ Create a list, complete it, repeat it.
 
 🤩 Featured by  Apple.
 
-<img src="https://raw.githubusercontent.com/atrinh0/atrinh0/master/images/featured.png" width="800">
+<img src="https://raw.githubusercontent.com/atrinh0/atrinh0/master/images/featured_b.png" width="1024">
 
 <img src="https://www.atrinh.com/list/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/hero2.png" width="300">
 
