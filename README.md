@@ -17,7 +17,7 @@ Create a list, complete it, repeat it.
 
 > 100% SwiftUI, App Clip, Widget, Drag & drop support, Dark mode support, Voiceover & Dynamic Text support, Localised to 32 languages, Taptic feedback
 
-🤩 Featured by  Apple.
+🤩 Featured by  Apple in 8 Countries, February 2021
 
 <img src="https://raw.githubusercontent.com/atrinh0/atrinh0/master/images/featured_b.png" width="1024">
 
@@ -34,6 +34,8 @@ Create a list, complete it, repeat it.
 Show large text on your screen.
 
 > Over 650,000 downloads, Widget, Action Extension, Dark mode support, Voiceover & Dynamic Text support, Localised to 37 languages, Taptic feedback, Custom App Icons, URL Scheme deeplinking, Using SF Symbols
+
+🤩 Featured by  Apple in 23 Countries, February 2014 - June 2014
 
 <img src="https://www.atrinh.com/big/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/big/images/hero2.png" width="300">
 
