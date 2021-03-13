@@ -11,7 +11,7 @@ My purpose is to create apps that people just love to use.
 &nbsp;
 <a href="https://honk.me/atrinh"><img src="https://raw.githubusercontent.com/atrinh0/atrinh0/master/images/honk.png" width="32"></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atrinh0&theme=default&hide_border=true&fire=e25822">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atrinh0&theme=default&hide_border=true&fire=e25822&background=fff">
 
 # <img class="logo" src="https://www.atrinh.com/list/images/appicon.svg" width="32"> A Repeatable List
 
