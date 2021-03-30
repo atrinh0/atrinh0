@@ -71,7 +71,7 @@ Monitor the current battery level of your device. As you charge your device, the
 
 # SF Symbols Browser
 
-SwiftUI app to search and showcase SF Symbols 🔎
+SwiftUI app to search and showcase SF Symbols. 🔎
 
 > Open-sourced, 100% SwiftUI
 
@@ -81,7 +81,7 @@ SwiftUI app to search and showcase SF Symbols 🔎
 
 # buttoncraft
 
-SwiftUI app to allow other developers craft that perfect SwiftUI button effect 👌🏼
+SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 👌🏼
 
 > Open-sourced, 100% SwiftUI
 
