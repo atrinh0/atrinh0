@@ -31,6 +31,16 @@ Create a list, complete it, repeat it.
 
 <a href="https://apps.apple.com/us/app/id1528701640"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
+# <img class="logo" src="https://www.atrinh.com/pong/images/appicon.svg" width="32"> Pong AR
+
+Play Pong with your face!
+
+> SwiftUI, ARKit, SpriteKit, GameKit (Game Center leaderboard), Taptic feedback
+
+<img src="https://www.atrinh.com/pong/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/pong/images/hero2.png" width="300">
+
+<a href="https://testflight.apple.com/join/zRjrB1m1">TestFlight</a>
+
 # <img class="logo" src="https://www.atrinh.com/big/images/appicon.svg" width="32"> Make It Big
 
 Show large text on your screen.
