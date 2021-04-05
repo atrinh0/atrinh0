@@ -39,7 +39,7 @@ Play Pong with your face!
 
 <img src="https://www.atrinh.com/pong/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/pong/images/hero2.png" width="300">
 
-<a href="https://testflight.apple.com/join/zRjrB1m1">TestFlight</a>
+<a href="https://testflight.apple.com/join/zRjrB1m1">✈️ https://testflight.apple.com/join/zRjrB1m1</a>
 
 # <img class="logo" src="https://www.atrinh.com/big/images/appicon.svg" width="32"> Make It Big
 
