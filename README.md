@@ -107,7 +107,7 @@ SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 
 &nbsp;
 <a href="https://www.atrinh.com/list/index.html"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/27/74/bd/2774bd0d-ff82-6860-ac7d-714dbc802176/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
 &nbsp;
-<a href="https://www.atrinh.com/pong/index.html"><img src="https://www.atrinh.com/pong/images/appicon.svg" width="64" height="64"></a>
+<a href="https://www.atrinh.com/pong/index.html"><img src="https://raw.githubusercontent.com/atrinh0/atrinh0/master/images/pongicon.png" width="64" height="64"></a>
 &nbsp;
 <a href="https://www.atrinh.com/covid/index.html"><img src="https://raw.githubusercontent.com/atrinh0/covid19/master/images/Icon.png" width="64" height="64"></a>
 
