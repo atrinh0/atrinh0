@@ -39,6 +39,8 @@ Play Pong with your face!
 
 <img src="https://www.atrinh.com/pong/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/pong/images/hero4.png" width="300">
 
+<img src="https://github.com/atrinh0/atrinh0/blob/master/images/ponganim.gif?raw=true" width="260"/>
+
 <a href="https://apps.apple.com/us/app/id1561416664"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
 # <img class="logo" src="https://www.atrinh.com/big/images/appicon.svg" width="32"> Make It Big
