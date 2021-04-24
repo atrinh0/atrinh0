@@ -101,7 +101,7 @@ SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 
 
 <a href="https://github.com/atrinh0/buttoncraft"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
 
-## 🌱 Personal apps
+# 🌱 Personal apps
 
 <a href="https://www.atrinh.com/big/index.html"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/1e/06/c5/1e06c510-f2b5-537d-e8e1-d058a2ec755f/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/128x0w.png" width="64" height="64" style="border-radius: 10%;"></a>
 &nbsp;
@@ -113,11 +113,11 @@ SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 
 &nbsp;
 <a href="https://www.atrinh.com/covid/index.html"><img src="https://raw.githubusercontent.com/atrinh0/covid19/master/images/Icon.png" width="64" height="64"></a>
 
-## 🌳 Work (current)
+# 🌳 Work (current)
 
 <a href="https://apps.apple.com/gb/app/sainsburys-groceries/id1086056964"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/87/38/eb/8738eb57-5334-c4b7-c907-1bd832475c9e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/128x0w.png" width="64" height="64"></a>
 
-## 🌲 Work (past)
+# 🌲 Work (past)
 
 <a href="https://apps.apple.com/gb/app/argos/id370371087"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/96/0b/3f960b00-809a-f2b0-c68e-5d8511bbb024/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/128x0w.png" width="64" height="64"></a>
 &nbsp;
