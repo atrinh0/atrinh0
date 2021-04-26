@@ -1,6 +1,6 @@
 ![](https://badges.pufler.dev/visits/atrinh0/atrinh0?color=black&logo=github)
 
-<img src="https://github.com/atrinh0/atrinh0/blob/master/images/avatar2020_2.png?raw=true" width="512"/>
+<img src="https://github.com/atrinh0/atrinh0/blob/master/images/avatar2020_3.png?raw=true" width="672"/>
 
 I’m a software engineer with over 10 years of commercial iOS development experience.<br>
 My purpose is to create apps that people just love to use.
@@ -126,5 +126,3 @@ SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 
 <a href="https://apps.apple.com/au/app/commbank/id310251202"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/b0/93/e9/b093e907-b7f0-8e43-d1ca-71abccb03eea/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/128x0w.png" width="64" height="64"></a>
 &nbsp;
 <a href="https://apps.apple.com/au/app/commbank-property/id375054462"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/16/15/a616154c-9b87-befa-b2bc-a499eb30a9fe/AppIcon-0-1x_U007emarketing-0-0-85-220-0-5.png/128x0w.png" width="64" height="64"></a>
-&nbsp;
-<a href="https://apps.apple.com/au/app/mobile-lister/id444418897"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple5/v4/74/80/9b/74809b27-4664-2c7d-00a4-aea094824b0c/mzl.dzmbishb.png/128x0w.png" width="64" height="64"></a>
