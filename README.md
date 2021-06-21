@@ -1,6 +1,6 @@
 ![](https://badges.pufler.dev/visits/atrinh0/atrinh0?color=black&logo=github)
 
-<img src="https://github.com/atrinh0/atrinh0/blob/master/images/avatar2021.png?raw=true" width="672"/>
+<img src="https://github.com/atrinh0/atrinh0/blob/master/images/avatar2021b.png?raw=true" width="672"/>
 
 I’m a software engineer with over 10 years of commercial iOS development experience.<br>
 My purpose is to create apps that people just love to use.
