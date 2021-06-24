@@ -1,6 +1,6 @@
 ![](https://badges.pufler.dev/visits/atrinh0/atrinh0?color=black&logo=github)
 
-<img src="https://github.com/atrinh0/atrinh0/blob/master/images/avatar2021b.png?raw=true" width="672"/>
+<img src="images/avatar2021b.png?raw=true" width="672"/>
 
 I’m a software engineer with over 10 years of commercial iOS development experience.<br>
 My purpose is to create apps that people just love to use.
@@ -21,11 +21,11 @@ Create a list, complete it, repeat it.
 
 🤩 Featured by  Apple in 8 Countries, February 2021
 
-<img src="https://raw.githubusercontent.com/atrinh0/atrinh0/master/images/featured_b.png" width="1024">
+<img src="images/featured_b.png" width="1024">
 
 <img src="https://www.atrinh.com/list/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/hero2.png" width="300">
 
-<img src="https://github.com/atrinh0/atrinh0/blob/master/images/appclipanim.gif?raw=true" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/appclip.png" width="200">
+<img src="images/appclipanim.gif?raw=true" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/appclip.png" width="200">
 
 <a href="https://2020.airport.community"><img src="https://airport.community/images/logo2.svg" width="32"> Airport Design Award</a>
 
@@ -49,7 +49,7 @@ Play Pong with your face!
 
 <img src="https://www.atrinh.com/pong/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/pong/images/hero4.png" width="300">
 
-<img src="https://github.com/atrinh0/atrinh0/blob/master/images/ponganim.gif?raw=true" width="260"/>
+<img src="images/ponganim.gif?raw=true" width="260"/>
 
 <a href="https://apps.apple.com/us/app/id1561416664"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
@@ -65,9 +65,9 @@ Show large text on your screen.
 
 <a href="https://apps.apple.com/us/app/id479282584"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
-<img src="https://github.com/atrinh0/atrinh0/blob/master/images/shortcut.png?raw=true" width="260"/>
+<img src="images/shortcut.png?raw=true" width="260"/>
 
-<a href="https://www.icloud.com/shortcuts/f48dca42d25340c894722ab517aa9393"><img src="https://github.com/atrinh0/atrinh0/blob/master/images/shortcutbutton.png?raw=true" height="40"></a>
+<a href="https://www.icloud.com/shortcuts/f48dca42d25340c894722ab517aa9393"><img src="images/shortcutbutton.png?raw=true" height="40"></a>
 
 > Siri Shortcut: Allows you to dictate text, then enlarges it in the Make It Big app
 
