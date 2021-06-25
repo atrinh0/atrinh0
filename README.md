@@ -17,7 +17,7 @@ My purpose is to create apps that people just love to use.
 
 Create a list, complete it, repeat it.
 
-> 100% SwiftUI, App Clip, Widget, Drag & drop support, Dark mode support, Voiceover & Dynamic Text support, Localised to 32 languages, Taptic feedback
+> SwiftUI, App Clip, Widget, Drag & drop support, Dark mode support, Voiceover & Dynamic Text support, Localised to 32 languages, Taptic feedback
 
 🤩 Featured by  Apple in 8 Countries, February 2021
 
@@ -75,7 +75,7 @@ Show large text on your screen.
 
 Track the latest coronavirus (COVID-19) daily new cases and deaths in the UK.
 
-> Open-sourced, 100% SwiftUI, Combine, Widget, Background task to fetch periodically, local notifications
+> Open-sourced, SwiftUI, Combine, Widget, Background task to fetch periodically, local notifications
 
 <img src="https://www.atrinh.com/covid/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/covid/images/hero2.png" width="300">
 
@@ -95,7 +95,7 @@ Monitor the current battery level of your device. As you charge your device, the
 
 SwiftUI app to search and showcase SF Symbols. 🔎
 
-> Open-sourced, 100% SwiftUI
+> Open-sourced, SwiftUI
 
 <img src="https://raw.githubusercontent.com/atrinh0/sfsymbols/develop/images/search.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/atrinh0/sfsymbols/develop/images/sort.gif" width="260"/>
 
@@ -105,7 +105,7 @@ SwiftUI app to search and showcase SF Symbols. 🔎
 
 SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 👌🏼
 
-> Open-sourced, 100% SwiftUI
+> Open-sourced, SwiftUI
 
 <img src="https://github.com/atrinh0/buttoncraft/blob/master/images/demo.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atrinh0/buttoncraft/blob/master/images/copycode.gif" width="260"/>
 
