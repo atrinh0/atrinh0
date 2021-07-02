@@ -13,6 +13,8 @@ My purpose is to create apps that people just love to use.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=atrinh0&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff">
 
+
+
 # <img class="logo" src="https://www.atrinh.com/list/images/appicon.svg" width="32"> A Repeatable List
 
 Create a list, complete it, repeat it.
@@ -31,27 +33,9 @@ Create a list, complete it, repeat it.
 
 <a href="https://apps.apple.com/us/app/id1528701640"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
-# <img class="logo" src="https://www.atrinh.com/zen/images/appicon.svg" width="32"> Zen AF
+<br>
 
-Minimalist Pomodoro Timer.
 
-> SwiftUI, Taptic feedback
-
-<img src="https://www.atrinh.com/zen/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/zen/images/hero2.png" width="300">
-
-<a href="https://apps.apple.com/us/app/id1569426267"><img src="https://www.atrinh.com/list/images/download.svg"></a>
-
-# <img class="logo" src="https://www.atrinh.com/pong/images/appicon.svg" width="32"> Pong AR
-
-Play Pong with your face!
-
-> SwiftUI, ARKit, SpriteKit, GameKit (Game Center leaderboard), Taptic feedback
-
-<img src="https://www.atrinh.com/pong/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/pong/images/hero4.png" width="300">
-
-<img src="images/ponganim.gif?raw=true" width="260"/>
-
-<a href="https://apps.apple.com/us/app/id1561416664"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
 # <img class="logo" src="https://www.atrinh.com/big/images/appicon.svg" width="32"> Make It Big
 
@@ -71,6 +55,40 @@ Show large text on your screen.
 
 > Siri Shortcut: Allows you to dictate text, then enlarges it in the Make It Big app
 
+<br>
+
+
+
+# <img class="logo" src="https://www.atrinh.com/pong/images/appicon.svg" width="32"> Pong AR
+
+Play Pong with your face!
+
+> SwiftUI, ARKit, SpriteKit, GameKit (Game Center leaderboard), Taptic feedback
+
+<img src="https://www.atrinh.com/pong/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/pong/images/hero4.png" width="300">
+
+<img src="images/ponganim.gif?raw=true" width="260"/>
+
+<a href="https://apps.apple.com/us/app/id1561416664"><img src="https://www.atrinh.com/list/images/download.svg"></a>
+
+<br>
+
+
+
+# <img class="logo" src="https://www.atrinh.com/zen/images/appicon.svg" width="32"> Zen AF
+
+Minimalist Pomodoro Timer.
+
+> SwiftUI, Taptic feedback
+
+<img src="https://www.atrinh.com/zen/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/zen/images/hero2.png" width="300">
+
+<a href="https://apps.apple.com/us/app/id1569426267"><img src="https://www.atrinh.com/list/images/download.svg"></a>
+
+<br>
+
+
+
 # <img class="logo" src="https://www.atrinh.com/covid/images/appicon.svg" width="32"> UK COVID-19 Statistics
 
 Track the latest coronavirus (COVID-19) daily new cases and deaths in the UK.
@@ -80,6 +98,10 @@ Track the latest coronavirus (COVID-19) daily new cases and deaths in the UK.
 <img src="https://www.atrinh.com/covid/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/covid/images/hero2.png" width="300">
 
 <a href="https://github.com/atrinh0/covid19"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
+
+<br>
+
+
 
 # <img class="logo" src="https://www.atrinh.com/battery/images/appicon.svg" width="32"> Battery Level - Portal
 
@@ -91,6 +113,10 @@ Monitor the current battery level of your device. As you charge your device, the
 
 <a href="https://apps.apple.com/us/app/id1458111693"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
+<br>
+
+
+
 # SF Symbols Browser
 
 SwiftUI app to search and showcase SF Symbols. 🔎
@@ -100,6 +126,10 @@ SwiftUI app to search and showcase SF Symbols. 🔎
 <img src="https://raw.githubusercontent.com/atrinh0/sfsymbols/develop/images/search.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/atrinh0/sfsymbols/develop/images/sort.gif" width="260"/>
 
 <a href="https://github.com/atrinh0/sfsymbols"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
+
+<br>
+
+
 
 # buttoncraft
 
@@ -111,19 +141,23 @@ SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 
 
 <a href="https://github.com/atrinh0/buttoncraft"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
 
+<br>
+
+
+
 # 🌱 Personal apps
 
-<a href="https://www.atrinh.com/big/index.html"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/1e/06/c5/1e06c510-f2b5-537d-e8e1-d058a2ec755f/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/128x0w.png" width="64" height="64" style="border-radius: 10%;"></a>
-&nbsp;
-<a href="https://www.atrinh.com/battery/index.html"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/28/66/8d/28668db4-9ee9-04df-8646-765a707e8572/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/128x0w.png" width="64" height="64"></a>
-&nbsp;
 <a href="https://www.atrinh.com/list/index.html"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/27/74/bd/2774bd0d-ff82-6860-ac7d-714dbc802176/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
+&nbsp;
+<a href="https://www.atrinh.com/big/index.html"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/1e/06/c5/1e06c510-f2b5-537d-e8e1-d058a2ec755f/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/128x0w.png" width="64" height="64" style="border-radius: 10%;"></a>
 &nbsp;
 <a href="https://www.atrinh.com/pong/index.html"><img src="https://raw.githubusercontent.com/atrinh0/atrinh0/master/images/pongicon.png" width="64" height="64"></a>
 &nbsp;
 <a href="https://www.atrinh.com/zen/index.html"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/ff/32/c8/ff32c8a8-f897-ca59-e6ad-1b90de463b9d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
 &nbsp;
 <a href="https://www.atrinh.com/covid/index.html"><img src="https://raw.githubusercontent.com/atrinh0/covid19/master/images/Icon.png" width="64" height="64"></a>
+&nbsp;
+<a href="https://www.atrinh.com/battery/index.html"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/28/66/8d/28668db4-9ee9-04df-8646-765a707e8572/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/128x0w.png" width="64" height="64"></a>
 
 # 🌳 Work (current)
 
