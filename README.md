@@ -121,7 +121,7 @@ Monitor the current battery level of your device. As you charge your device, the
 
 SwiftUI app to search and showcase SF Symbols. 🔎
 
-> Open-sourced, SwiftUI
+> Open-sourced, SwiftUI, (New: enum style values, searchable modifier, dismiss environment variable, text selection, multiple sheet presentation, animation deprecation requires animation value, foundation pluraliser to add 's' or not)
 
 <img src="https://raw.githubusercontent.com/atrinh0/sfsymbols/develop/images/search.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/atrinh0/sfsymbols/develop/images/sort.gif" width="260"/>
 
