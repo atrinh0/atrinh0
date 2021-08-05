@@ -9,7 +9,7 @@ My purpose is to create apps that people just love to use.
 &nbsp;
 <a href="https://www.linkedin.com/in/atrinh0/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
 &nbsp;
-<a href="https://honk.me/atrinh"><img src="https://raw.githubusercontent.com/atrinh0/atrinh0/master/images/honk.png" width="32"></a>
+<a href="https://honk.me/atrinh"><img src="images/honk.png" width="32"></a>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=atrinh0&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff">
 
@@ -151,7 +151,7 @@ SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 
 &nbsp;
 <a href="https://www.atrinh.com/big/index.html"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/1e/06/c5/1e06c510-f2b5-537d-e8e1-d058a2ec755f/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/128x0w.png" width="64" height="64" style="border-radius: 10%;"></a>
 &nbsp;
-<a href="https://www.atrinh.com/pong/index.html"><img src="https://raw.githubusercontent.com/atrinh0/atrinh0/master/images/pongicon.png" width="64" height="64"></a>
+<a href="https://www.atrinh.com/pong/index.html"><img src="images/pongicon.png" width="64" height="64"></a>
 &nbsp;
 <a href="https://www.atrinh.com/zen/index.html"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/ff/32/c8/ff32c8a8-f897-ca59-e6ad-1b90de463b9d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
 &nbsp;
