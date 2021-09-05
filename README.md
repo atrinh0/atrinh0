@@ -77,7 +77,7 @@ Play Pong with your face!
 
 # <img class="logo" src="https://www.atrinh.com/scanner/images/appicon.svg" width="32"> Code Scanner
 
-Scans for codes using your camera, or from an image in your photo gallery.
+Scans for codes using your camera, or from an image in your photos.
 
 > SwiftUI, Vision Framework, AVFoundation, Taptic feedback
 
