@@ -190,3 +190,9 @@ SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 
 <a href="https://apps.apple.com/au/app/commbank-property/id375054462"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/16/15/a616154c-9b87-befa-b2bc-a499eb30a9fe/AppIcon-0-1x_U007emarketing-0-0-85-220-0-5.png/128x0w.png" width="64" height="64"></a>
 
 <a name="bottom"></a>
+
+> Testing URL schemes
+
+<a href="codescanner://">codescanner</a><br>
+<a href="codescanner://?c=">codescanner://?c=</a><br>
+<a href="codescanner://?c=code">codescanner://?c=code</a>
