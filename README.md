@@ -45,7 +45,7 @@ Show large text on your screen.
 
 🤩 Featured by  Apple in 23 Countries, February 2014 - June 2014
 
-<img src="https://www.atrinh.com/big/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/big/images/hero2.png" width="300">
+<img src="https://www.atrinh.com/big/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/big/images/hero4.png" width="300">
 
 <a href="https://apps.apple.com/us/app/id479282584"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
