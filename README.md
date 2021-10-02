@@ -81,7 +81,7 @@ Scans for codes using your camera, or from an image in your photos.
 
 > SwiftUI, Vision Framework, AVFoundation, Taptic feedback
 
-<img src="https://www.atrinh.com/scanner/images/hero1.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/scanner/images/hero2.png" width="300">
+<img src="https://www.atrinh.com/scanner/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/scanner/images/hero4.png" width="300">
 
 <a href="https://apps.apple.com/us/app/id1584185919"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
