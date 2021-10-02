@@ -123,7 +123,7 @@ Monitor the current battery level of your device. As you charge your device, the
 
 > Dark mode support, Custom App Icons, Taptic feedback, Siri Shortcuts
 
-<img src="https://www.atrinh.com/battery/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/battery/images/hero2.png" width="300">
+<img src="https://www.atrinh.com/battery/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/battery/images/hero4.png" width="300">
 
 <a href="https://apps.apple.com/us/app/id1458111693"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
