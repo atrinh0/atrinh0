@@ -95,7 +95,7 @@ Minimalist Pomodoro Timer.
 
 > SwiftUI, Taptic feedback
 
-<img src="https://www.atrinh.com/zen/images/hero.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/zen/images/hero2.png" width="300">
+<img src="https://www.atrinh.com/zen/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/zen/images/hero4.png" width="300">
 
 <a href="https://apps.apple.com/us/app/id1569426267"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
