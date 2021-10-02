@@ -49,7 +49,7 @@ Show large text on your screen.
 
 <a href="https://apps.apple.com/us/app/id479282584"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
-<img src="images/shortcut_b.png" width="300"/>
+<img src="images/shortcut2.png" width="300"/>
 
 <a href="https://www.icloud.com/shortcuts/f48dca42d25340c894722ab517aa9393"><img src="images/shortcutbutton.png" height="40"></a>
 
