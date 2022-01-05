@@ -129,6 +129,22 @@ Monitor the current battery level of your device. As you charge your device, the
 
 
 
+# <img class="logo" src="https://www.atrinh.com/spiro/images/appicon.svg" width="32"> Spiro
+
+An interactive animating spirograph generator.
+
+> Swift Playgrounds 4 app, Open-sourced, SwiftUI
+
+<img src="https://www.atrinh.com/spiro/images/hero1.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/spiro/images/hero2.png" width="300">
+
+<a href="https://apps.apple.com/us/app/id1602980337"><img src="https://www.atrinh.com/list/images/download.svg"></a>
+&nbsp;
+<a href="https://github.com/atrinh0/spiro"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
+
+<br>
+
+
+
 # SF Symbols Browser
 
 SwiftUI app to search and showcase SF Symbols. 🔎
