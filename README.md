@@ -77,7 +77,7 @@ Play Pong with your face!
 
 Scans for codes using your camera, or from an image in your photos.
 
-> SwiftUI, Vision Framework, AVFoundation, Taptic feedback
+> SwiftUI, Vision Framework, AVFoundation, Taptic feedback, Action Extension (scan codes from Image share sheet)
 
 <img src="https://www.atrinh.com/scanner/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/scanner/images/hero4.png" width="300">
 
