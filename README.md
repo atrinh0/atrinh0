@@ -91,7 +91,7 @@ Scans for codes using your camera, or from an image in your photos.
 
 Minimalist Pomodoro Timer.
 
-> SwiftUI, Taptic feedback
+> SwiftUI, Taptic feedback, AirPlay (AVKit)
 
 <img src="https://www.atrinh.com/zen/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/zen/images/hero4.png" width="300">
 
