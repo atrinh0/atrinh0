@@ -43,6 +43,8 @@ Show large text on your screen.
 
 🤩 Featured by  Apple in 23 Countries, February 2014 - June 2014
 
+😍 Mentioned in the App Store Story: [Discover the Apps Behind CODA](https://apps.apple.com/gb/story/id1582547591), February 2022
+
 <img src="https://www.atrinh.com/big/images/hero5.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/big/images/hero6.png" width="300">
 
 <a href="https://apps.apple.com/us/app/id479282584"><img src="https://www.atrinh.com/list/images/download.svg"></a>
