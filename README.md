@@ -39,7 +39,7 @@ Create a list, complete it, repeat it.
 
 Show large text on your screen.
 
-> Over 716,000 downloads, Widget, Action Extension, Dark mode support, Voiceover & Dynamic Text support, Localised to 37 languages, Taptic feedback, Custom App Icons, URL Scheme deeplinking, Using SF Symbols
+> Over 749,000 downloads, Widget, Action Extension, Dark mode support, Voiceover & Dynamic Text support, Localised to 37 languages, Taptic feedback, Custom App Icons, URL Scheme deeplinking, Using SF Symbols
 
 🤩 Featured by  Apple in 23 Countries, February 2014 - June 2014
 
