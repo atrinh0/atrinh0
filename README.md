@@ -10,6 +10,7 @@ My purpose is to create apps that people just love to use.
 <a href="https://www.linkedin.com/in/atrinh0/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
 
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=atrinh0&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff">](#bottom)
+[<img src="https://github-readme-stats.vercel.app/api?username=atrinh0&title_color=fb8c00&text_color=000&hide_border=true&bg_color=fff&show_icons=true&icon_color=e25822&hide_title=true&include_all_commits=true&count_private=true">](#bottom)
 
 
 
