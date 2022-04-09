@@ -109,7 +109,7 @@ Minimalist Pomodoro Timer.
 
 Track the latest coronavirus (COVID-19) daily new cases and deaths in the UK.
 
-> Open-sourced, SwiftUI, Async/Await, Widget, Background task to fetch periodically, local notifications
+> Open source, SwiftUI, Async/Await, Widget, Background task to fetch periodically, local notifications
 
 <img src="https://www.atrinh.com/covid/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/covid/images/hero4.png" width="300">
 
@@ -137,7 +137,7 @@ Monitor the current battery level of your device. As you charge your device, the
 
 An interactive animating spirograph generator.
 
-> Swift Playgrounds 4 app, Open-sourced, SwiftUI
+> Swift Playgrounds 4 app, Open source, SwiftUI
 
 <img src="https://www.atrinh.com/spiro/images/hero1.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/spiro/images/hero2.png" width="300">
 
@@ -153,7 +153,7 @@ An interactive animating spirograph generator.
 
 SwiftUI app to search and showcase SF Symbols. 🔎
 
-> Open-sourced, SwiftUI, (enum style values, searchable modifier, dismiss environment variable, text selection, multiple sheet presentation, foundation pluraliser)
+> Open source, SwiftUI, (enum style values, searchable modifier, dismiss environment variable, text selection, multiple sheet presentation, foundation pluraliser)
 
 <img src="https://raw.githubusercontent.com/atrinh0/sfsymbols/develop/images/search.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/atrinh0/sfsymbols/develop/images/sort.gif" width="260"/>
 
@@ -167,7 +167,7 @@ SwiftUI app to search and showcase SF Symbols. 🔎
 
 SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 👌🏼
 
-> Open-sourced, SwiftUI
+> Open source, SwiftUI
 
 <img src="https://github.com/atrinh0/buttoncraft/blob/master/images/demo.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atrinh0/buttoncraft/blob/master/images/copycode.gif" width="260"/>
 
@@ -177,7 +177,16 @@ SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 
 
 
 
-# 🌱 Personal apps
+# 🌱 Open source projects
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=buttoncraft)
+![](https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=sfsymbols)
+![](https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=covid19)
+![](https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=spiro)
+![](https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=wwdc22)
+![](https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=retro)
+
+# 🪴 Personal apps
 
 <a href="https://www.atrinh.com/list/index.html"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/27/74/bd/2774bd0d-ff82-6860-ac7d-714dbc802176/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
 &nbsp;
