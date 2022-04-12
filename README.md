@@ -193,7 +193,9 @@ SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 
 &nbsp;
 <a href="https://www.atrinh.com/big/index.html"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/1e/06/c5/1e06c510-f2b5-537d-e8e1-d058a2ec755f/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/128x0w.png" width="64" height="64" style="border-radius: 10%;"></a>
 &nbsp;
-<a href="https://www.atrinh.com/pong/index.html"><img src="images/pongicon.png" width="64" height="64"></a>
+<a href="https://www.atrinh.com/speech/index.html"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/13/fc/2a/13fc2aa6-4259-f77c-508d-426ea9478936/AppIcon-1x_U007emarketing-0-7-0-85-220.png/128x0w.webp" width="64" height="64"></a>
+&nbsp;
+<a href="https://www.atrinh.com/pong/index.html"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/8b/f0/e7/8bf0e778-8267-75d7-c6b6-9bc31916aadf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/128x0w.webp" width="64" height="64"></a>
 &nbsp;
 <a href="https://www.atrinh.com/scanner/index.html"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/9e/ba/6c/9eba6cc8-c350-745d-1ce6-06d7904ca4da/AppIcon-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
 &nbsp;
