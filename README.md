@@ -65,7 +65,7 @@ Show large text on your screen.
 
 A conversation visualiser. Converts your speech to images, providing context to conversations.
 
-> Swift Playgrounds 4 app, SwiftUI, Speech API (Speech Recognition), Natural Language API (to identify adjectives/nouns)
+> Swift Playgrounds 4 app, SwiftUI, Speech API (Speech Recognition), Natural Language API (to identify adjectives/nouns), Async/Await
 
 <img src="https://www.atrinh.com/speech/images/hero1.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/speech/images/hero2.png" width="300">
 
