@@ -15,7 +15,9 @@ My purpose is to create apps that people just love to use.
 
 
 
-# <img class="logo" src="https://www.atrinh.com/list/images/appicon.svg" width="32"> A Repeatable List
+# A Repeatable List
+
+<img class="logo" src="https://www.atrinh.com/list/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1528701640"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
 
 Create a list, complete it, repeat it.
 
@@ -31,13 +33,14 @@ Create a list, complete it, repeat it.
 
 <a href="https://2020.airport.community"><img src="https://airport.community/images/logo2.svg" width="32"> Airport Design Award</a>
 
-<a href="https://apps.apple.com/us/app/id1528701640"><img src="https://www.atrinh.com/list/images/download.svg"></a>
-
 <br>
 
 
 
-# <img class="logo" src="https://www.atrinh.com/big/images/appicon.svg" width="32"> Make It Big
+# Make It Big
+
+<img class="logo" src="https://www.atrinh.com/big/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id479282584"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
+
 
 Show large text on your screen.
 
@@ -51,8 +54,6 @@ Show large text on your screen.
 
 <img src="https://www.atrinh.com/big/images/hero5.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/big/images/hero6.png" width="300">
 
-<a href="https://apps.apple.com/us/app/id479282584"><img src="https://www.atrinh.com/list/images/download.svg"></a>
-
 <img src="images/shortcut2.png" width="300"/>
 
 <a href="https://www.icloud.com/shortcuts/f48dca42d25340c894722ab517aa9393"><img src="images/shortcutbutton.png" height="40"></a>
@@ -63,7 +64,9 @@ Show large text on your screen.
 
 
 
-# <img class="logo" src="https://www.atrinh.com/speech/images/appicon.svg" width="32"> Speech to Image
+# Speech to Image
+
+<img class="logo" src="https://www.atrinh.com/speech/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1617540455"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
 
 A conversation visualiser. Converts your speech to images, providing context to conversations.
 
@@ -71,13 +74,13 @@ A conversation visualiser. Converts your speech to images, providing context to 
 
 <img src="https://www.atrinh.com/speech/images/hero1.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/speech/images/hero2.png" width="300">
 
-<a href="https://apps.apple.com/us/app/id1617540455"><img src="https://www.atrinh.com/list/images/download.svg"></a>
-
 <br>
 
 
 
-# <img class="logo" src="https://www.atrinh.com/pong/images/appicon.svg" width="32"> Pong AR
+# Pong AR
+
+<img class="logo" src="https://www.atrinh.com/pong/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1561416664"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
 
 Play Pong with your face!
 
@@ -87,13 +90,13 @@ Play Pong with your face!
 
 <img src="images/ponganim.gif" width="260"/>
 
-<a href="https://apps.apple.com/us/app/id1561416664"><img src="https://www.atrinh.com/list/images/download.svg"></a>
-
 <br>
 
 
 
-# <img class="logo" src="https://www.atrinh.com/scanner/images/appicon.svg" width="32"> Code Scanner
+# Code Scanner
+
+<img class="logo" src="https://www.atrinh.com/scanner/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1584185919"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
 
 Scans for codes using your camera, or from an image in your photos.
 
@@ -101,13 +104,13 @@ Scans for codes using your camera, or from an image in your photos.
 
 <img src="https://www.atrinh.com/scanner/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/scanner/images/hero4.png" width="300">
 
-<a href="https://apps.apple.com/us/app/id1584185919"><img src="https://www.atrinh.com/list/images/download.svg"></a>
-
 <br>
 
 
 
-# <img class="logo" src="https://www.atrinh.com/zen/images/appicon.svg" width="32"> Zen AF
+# Zen AF
+
+<img class="logo" src="https://www.atrinh.com/zen/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1569426267"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
 
 Minimalist Pomodoro Timer.
 
@@ -115,13 +118,13 @@ Minimalist Pomodoro Timer.
 
 <img src="https://www.atrinh.com/zen/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/zen/images/hero4.png" width="300">
 
-<a href="https://apps.apple.com/us/app/id1569426267"><img src="https://www.atrinh.com/list/images/download.svg"></a>
-
 <br>
 
 
 
-# <img class="logo" src="https://www.atrinh.com/covid/images/appicon.svg" width="32"> UK COVID-19 Statistics
+# UK COVID-19 Statistics
+
+<img class="logo" src="https://www.atrinh.com/covid/images/appicon.svg" width="120"><br><a href="https://github.com/atrinh0/covid19"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 
 Track the latest coronavirus (COVID-19) daily new cases and deaths in the UK.
 
@@ -129,13 +132,13 @@ Track the latest coronavirus (COVID-19) daily new cases and deaths in the UK.
 
 <img src="https://www.atrinh.com/covid/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/covid/images/hero4.png" width="300">
 
-<a href="https://github.com/atrinh0/covid19"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
-
 <br>
 
 
 
-# <img class="logo" src="https://www.atrinh.com/battery/images/appicon.svg" width="32"> Battery Level - Portal
+# Battery Level - Portal
+
+<img class="logo" src="https://www.atrinh.com/battery/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1458111693"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
 
 Monitor the current battery level of your device. As you charge your device, the battery level will be announced.
 
@@ -143,13 +146,13 @@ Monitor the current battery level of your device. As you charge your device, the
 
 <img src="https://www.atrinh.com/battery/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/battery/images/hero4.png" width="300">
 
-<a href="https://apps.apple.com/us/app/id1458111693"><img src="https://www.atrinh.com/list/images/download.svg"></a>
-
 <br>
 
 
 
-# <img class="logo" src="https://www.atrinh.com/spiro/images/appicon.svg" width="32"> Spiro
+# Spiro
+
+<img class="logo" src="https://www.atrinh.com/spiro/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1602980337"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a><br><a href="https://github.com/atrinh0/spiro"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 
 An interactive animating spirograph generator.
 
@@ -157,15 +160,13 @@ An interactive animating spirograph generator.
 
 <img src="https://www.atrinh.com/spiro/images/hero1.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/spiro/images/hero2.png" width="300">
 
-<a href="https://apps.apple.com/us/app/id1602980337"><img src="https://www.atrinh.com/list/images/download.svg"></a>
-&nbsp;
-<a href="https://github.com/atrinh0/spiro"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
-
 <br>
 
 
 
 # SF Symbols Browser
+
+<a href="https://github.com/atrinh0/sfsymbols"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 
 SwiftUI app to search and showcase SF Symbols. 🔎
 
@@ -173,21 +174,19 @@ SwiftUI app to search and showcase SF Symbols. 🔎
 
 <img src="https://raw.githubusercontent.com/atrinh0/sfsymbols/develop/images/search.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/atrinh0/sfsymbols/develop/images/sort.gif" width="260"/>
 
-<a href="https://github.com/atrinh0/sfsymbols"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
-
 <br>
 
 
 
 # buttoncraft
 
+<a href="https://github.com/atrinh0/buttoncraft"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
+
 SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 👌🏼
 
 > Open source, SwiftUI
 
 <img src="https://github.com/atrinh0/buttoncraft/blob/master/images/demo.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atrinh0/buttoncraft/blob/master/images/copycode.gif" width="260"/>
-
-<a href="https://github.com/atrinh0/buttoncraft"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
 
 <br>
 
