@@ -194,12 +194,13 @@ SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 
 
 # 🌱 Open source projects
 
-
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=buttoncraft">](https://github.com/atrinh0/buttoncraft)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=sfsymbols">](https://github.com/atrinh0/sfsymbols)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=covid19">](https://github.com/atrinh0/covid19)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=spiro">](https://github.com/atrinh0/spiro)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=wwdc22">](https://github.com/atrinh0/wwdc22)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=SciFiChallenge">](https://github.com/atrinh0/SciFiChallenge)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=AnimationChallenge">](https://github.com/atrinh0/AnimationChallenge)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=retro">](https://github.com/atrinh0/retro)
 
 # 🪴 Personal apps
