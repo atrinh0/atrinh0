@@ -190,7 +190,7 @@ SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 
 
 
 
-# 🌱 Open source projects
+# 🌱 Open source projects & experiments
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=buttoncraft">](https://github.com/atrinh0/buttoncraft)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=atrinh0&repo=sfsymbols">](https://github.com/atrinh0/sfsymbols)
