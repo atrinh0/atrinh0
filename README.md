@@ -19,13 +19,13 @@ My purpose is to create apps that people just love to use.
 
 Create a list, complete it, repeat it.
 
-> SwiftUI, App Clip, Widget, Drag & drop support, Dark mode support, Voiceover & Dynamic Text support, Localised to 32 languages, Taptic feedback
+> SwiftUI, App Clip, Widget, Drag & drop support, Dark mode support, Voiceover & Dynamic Text support, Localised to 32 languages, Taptic feedback, Lock Screen Widgets
 
 🤩 Featured by  Apple in 8 Countries, February 2021
 
 <img src="images/featured_b.png" width="1024">
 
-<img src="https://www.atrinh.com/list/images/hero5.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/hero6.png" width="300">
+<img src="https://www.atrinh.com/list/images/hero7.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/hero8.png" width="300">
 
 <img src="images/appclipanim.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/appclip.png" width="200">
 
