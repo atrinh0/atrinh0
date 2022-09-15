@@ -19,7 +19,7 @@ My purpose is to create apps that people just love to use.
 
 Create a list, complete it, repeat it.
 
-> SwiftUI, App Clip, Widget, Drag & drop support, Dark mode support, Voiceover & Dynamic Text support, Localised to 32 languages, Taptic feedback, Lock Screen Widgets
+> SwiftUI, App Clip, Lock Screen Widgets, Home Screen Widgets, Drag & drop support, Dark mode support, Voiceover & Dynamic Text support, Localised to 32 languages, Taptic feedback
 
 🤩 Featured by  Apple in Japan, September 2022
 
@@ -44,7 +44,7 @@ Create a list, complete it, repeat it.
 
 Show large text on your screen.
 
-> Over 822,000 downloads, Lock Screen Widgets, Home screen Widgets, Action Extension, Dark mode support, Voiceover & Dynamic Text support, Localised to 37 languages, Taptic feedback, Custom App Icons, URL Scheme deeplinking, Using SF Symbols
+> Over 822,000 downloads, Lock Screen Widgets, Home Screen Widgets, Action Extension, Dark mode support, Voiceover & Dynamic Text support, Localised to 37 languages, Taptic feedback, Custom App Icons, URL Scheme deeplinking, Using SF Symbols
 
 🤩 Featured by  Apple in 41 Countries, May 2022
 
