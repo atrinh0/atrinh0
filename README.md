@@ -44,7 +44,9 @@ Create a list, complete it, repeat it.
 
 Show large text on your screen.
 
-> Over 749,000 downloads, Widget, Action Extension, Dark mode support, Voiceover & Dynamic Text support, Localised to 37 languages, Taptic feedback, Custom App Icons, URL Scheme deeplinking, Using SF Symbols, Lock Screen Widgets
+> Over 822,000 downloads, Lock Screen Widgets, Home screen Widgets, Action Extension, Dark mode support, Voiceover & Dynamic Text support, Localised to 37 languages, Taptic feedback, Custom App Icons, URL Scheme deeplinking, Using SF Symbols
+
+🤩 Featured by  Apple in 41 Countries, May 2022
 
 🤩 Featured by  Apple in 23 Countries, February 2014 - June 2014
 
