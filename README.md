@@ -48,9 +48,9 @@ Show large text on your screen.
 
 🤩 Featured by  Apple in 41 Countries, May 2022
 
-🤩 Featured by  Apple in 23 Countries, February 2014 - June 2014
-
 😍 Mentioned in the App Store Story: [Discover the Apps Behind CODA](https://apps.apple.com/gb/story/id1582547591), February 2022
+
+🤩 Featured by  Apple in 23 Countries, February 2014 - June 2014
 
 <img src="images/coda.png" width="1024">
 
