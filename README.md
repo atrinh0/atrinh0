@@ -1,4 +1,4 @@
-[<img src="images/avatar2022c.png" width="720"/>](#-personal-apps)
+[<img src="images/avatar2022d.png" width="720"/>](#-personal-apps)
 
 I’m a software engineer with over 10 years of commercial iOS development experience.<br>
 My purpose is to create apps that people just love to use.
