@@ -68,7 +68,7 @@ Show large text on your screen.
 
 # Speech to Image
 
-<img class="logo" src="https://www.atrinh.com/speech/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1617540455"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
+<img class="logo" src="https://www.atrinh.com/speech/images/appicon.svg" width="120"><br>**Temporarily removed from sale until a new image API is found**
 
 A conversation visualiser. Converts your speech to images, providing context to conversations.
 
