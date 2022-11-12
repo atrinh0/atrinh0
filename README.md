@@ -146,7 +146,7 @@ Track the latest coronavirus (COVID-19) daily new cases and deaths in the UK.
 
 > Open source, Swift Charts, SwiftUI, Async/Await, Widget, Background task to fetch periodically, local notifications
 
-<img src="https://www.atrinh.com/covid/images/hero3.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/covid/images/hero4.png" width="300">
+<img src="https://www.atrinh.com/covid/images/hero5.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/covid/images/hero6.png" width="300">
 
 <br>
 
