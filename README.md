@@ -11,6 +11,8 @@ My purpose is to create apps that people just love to use.
 &nbsp;
 <a href="https://apple.co/3L9BesA"><img src="https://img.icons8.com/ios-filled/128/555555/apple-app-store--v2.svg" width="34"/></a>
 
+<a rel="me" href="https://mastodon.social/@atrinh">Mastodon</a>
+
 [<img src="https://ghchart.rshah.org/atrinh0" width="720">](#bottom)
 
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=atrinh0&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff">](#bottom)
