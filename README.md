@@ -5,7 +5,7 @@ My purpose is to create apps that people just love to use.
 
 <a href="https://twitter.com/atrinh"><img src="https://img.icons8.com/ios-filled/64/555555/twitter.svg" width="32"/></a>
 &nbsp;
-<a rel="me" href="https://mastodon.social/@atrinh"><img src="https://avatars.githubusercontent.com/u/24979032?s=200&v=4" width="32"/></a>
+<a rel="me" href="https://mastodon.social/@atrinh"><img src="images/mastodon.png" width="32"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/atrinh0/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
 &nbsp;
