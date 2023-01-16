@@ -13,7 +13,7 @@ My purpose is to create apps that people just love to use.
 
 [<img src="https://ghchart.rshah.org/atrinh0" width="720">](#bottom)
 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=atrinh0&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff">](#bottom)
+[<img src="https://streak-stats.demolab.com/?user=atrinh0&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff">](#bottom)
 
 # A Repeatable List
 
