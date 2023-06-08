@@ -84,7 +84,9 @@ Track a single point in time.
 
 # Speech to Image
 
-<img class="logo" src="https://www.atrinh.com/speech/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1617540455"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
+<img class="logo" src="https://www.atrinh.com/speech/images/appicon.svg" width="120">
+
+> ℹ️ Removed until a suitable image API is found (previous one is no longer maintained).
 
 A conversation visualiser. Converts your speech to images, providing context to conversations.
 
