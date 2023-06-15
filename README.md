@@ -33,8 +33,6 @@ Create a list, complete it, repeat it.
 
 <img src="images/appclipanim.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/appclip.png" width="200">
 
-<a href="https://2020.airport.community"><img src="https://airport.community/images/logo2.svg" width="32"> Airport Design Award</a>
-
 <br>
 
 
