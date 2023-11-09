@@ -13,8 +13,6 @@ My purpose is to create apps that people just love to use.
 &nbsp;
 <a href="https://apple.co/3L9BesA"><img src="images/appstore.png" width="34"/></a>
 
-[<img src="https://streak-stats.demolab.com/?user=atrinh0&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff">](#bottom)
-
 # A Repeatable List
 
 <img class="logo" src="https://www.atrinh.com/list/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1528701640"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
