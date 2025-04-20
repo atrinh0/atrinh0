@@ -1,13 +1,10 @@
 [<img src="images/avatar2023a.png" width="720"/>](#-personal-apps)
 
-I’m a software engineer with over 10 years of commercial iOS development experience.<br>
-My purpose is to create apps that people just love to use.
+Software engineer with 14+ years in iOS development experience, focused on building apps people love and writing modern, maintainable and well-tested code.
 
 [<img src="https://ghchart.rshah.org/atrinh0" width="720">](#bottom)
 
 <a href="https://twitter.com/atrinh"><img src="images/twitter.png" width="32"/></a>
-&nbsp;
-<a rel="me" href="https://mastodon.social/@atrinh"><img src="images/mastodon.png" width="32"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/atrinh0/"><img src="images/linkedin.png" width="32"/></a>
 &nbsp;
