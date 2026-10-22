@@ -39,7 +39,7 @@ Create a list, complete it, repeat it.
 
 Show large text on your screen.
 
-> Over 822,000 downloads, Lock Screen Widgets, Home Screen Widgets, Action Extension, Dark mode support, Voiceover & Dynamic Text support, Localised to 37 languages, Taptic feedback, Custom App Icons, URL Scheme deeplinking, Using SF Symbols
+> 2M+ downloads, native iOS and iPadOS app built with Swift and SwiftUI, WidgetKit Home Screen and Lock Screen widgets, App Intents for Siri Shortcuts and Control Centre, App Groups for widget data sharing, share extension, custom URL-scheme deep linking, localisation in 54 locales, VoiceOver and Dynamic Type accessibility support
 
 🤩 Featured by  Apple in 41 Countries, May 2022
 
@@ -49,13 +49,7 @@ Show large text on your screen.
 
 <img src="images/coda.png" width="1024">
 
-<img src="https://www.atrinh.com/big/images/hero7.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/big/images/hero8.png" width="300">
-
-<img src="images/shortcut2.png" width="300"/>
-
-<a href="https://www.icloud.com/shortcuts/f48dca42d25340c894722ab517aa9393"><img src="images/shortcutbutton.png" height="40"></a>
-
-> Siri Shortcut: Allows you to dictate text, then enlarges it in the Make It Big app
+<img src="https://www.atrinh.com/big/images/duo0.webp" width="800">
 
 <br>
 
