@@ -1,4 +1,4 @@
-[<img src="images/avatar2023a.png" width="720"/>](#-personal-apps)
+[<img src="images/avatar2026.png" width="720"/>](#-personal-apps)
 
 <b>iOS engineer, 15+ years, Swift &amp; SwiftUI</b>
 
