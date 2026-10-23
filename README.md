@@ -72,9 +72,9 @@ Create a list, complete it, repeat it.
 
 > SwiftUI, App Clip, Lock Screen Widgets, Home Screen Widgets, Drag & drop support, Dark mode support, Voiceover & Dynamic Text support, Localised to 32 languages, Taptic feedback
 
-🤩 Featured by  Apple in Japan, September 2022
+🤩 Featured by  Apple in Japan in the "ロック画面で使えるウィジェット" (Widgets for the lock screen) category, September 2022 - November 2022
 
-🤩 Featured by  Apple in 8 Countries, February 2021
+🤩 Featured by  Apple in 8 Countries in the "Big Apps From Small Teams" category, February 2021 - July 2021
 
 <img src="images/featured_b.png" width="1024">
 
