@@ -50,6 +50,8 @@ Show large text on your screen.
 
 > Over 2 million downloads, native iOS and iPadOS app built with Swift and SwiftUI, WidgetKit Home Screen and Lock Screen widgets, App Intents for Siri Shortcuts and Control Centre, App Groups for widget data sharing, share extension, custom URL-scheme deep linking, localisation in 52 locales, VoiceOver and Dynamic Type accessibility support
 
+🤩 Featured by  Apple in over 24 Countries in the "Accessibility Tools Everyone Should Have" category, May 2023 - March 2026
+
 🤩 Featured by  Apple in 41 Countries, May 2022
 
 😍 Mentioned in the App Store Story: [Discover the Apps Behind CODA](https://apps.apple.com/gb/story/id1582547591), February 2022
