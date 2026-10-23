@@ -50,13 +50,19 @@ Show large text on your screen.
 
 > Over 2 million downloads, native iOS and iPadOS app built with Swift and SwiftUI, WidgetKit Home Screen and Lock Screen widgets, App Intents for Siri Shortcuts and Control Centre, App Groups for widget data sharing, share extension, custom URL-scheme deep linking, localisation in 52 locales, VoiceOver and Dynamic Type accessibility support
 
-🤩 Featured by  Apple in over 24 Countries in the "Accessibility Tools Everyone Should Have" category, May 2023 - March 2026
+🤩 Featured by  Apple in 41 Countries on the Today tab, February 2022 - May 2022, including 40 countries on 19 May 2022
 
-🤩 Featured by  Apple in 41 Countries, May 2022
+😍 Mentioned in the App Store Story: [Discover the Apps Behind CODA](https://apps.apple.com/gb/story/id1582547591), where Apple's editors noted the Oscar-winning film's director used Make It Big on set to share notes with actors from behind the camera
 
-😍 Mentioned in the App Store Story: [Discover the Apps Behind CODA](https://apps.apple.com/gb/story/id1582547591), February 2022
+♿️ Featured by  Apple on Global Accessibility Awareness Day three years running: 19 May 2022, 18 May 2023 and 16 May 2024
+
+🤩 Featured by  Apple in 24 Countries in the "Accessibility Tools Everyone Should Have" category on the Apps tab, May 2023 - March 2026 (24 countries in May 2024, then weekly in Canada)
+
+🤩 Featured by  Apple in 7 Countries in the "Accessibility tools for everyone" Today tab story from the App Store editors, April 2024
 
 🤩 Featured by  Apple in 23 Countries, February 2014 - June 2014
+
+<sub>Source: AppFollow Featured ([Today](https://appfollow.io/featured/today/all/479282584) and [Apps](https://appfollow.io/featured/apps/all/479282584) tabs)</sub>
 
 <img src="https://www.atrinh.com/big/images/duo0.webp" width="800">
 
@@ -72,9 +78,15 @@ Create a list, complete it, repeat it.
 
 > SwiftUI, App Clip, Lock Screen Widgets, Home Screen Widgets, Drag & drop support, Dark mode support, Voiceover & Dynamic Text support, Localised to 32 languages, Taptic feedback
 
-🤩 Featured by  Apple in Japan in the "ロック画面で使えるウィジェット" (Widgets for the lock screen) category, September 2022 - November 2022
+🤩 Featured by  Apple in Japan in the "ロック画面にウィジェットを追加" (Add widgets to the lock screen) Today tab story, 14 September 2022, the day after shipping iOS 16 Lock Screen widgets
 
-🤩 Featured by  Apple in 8 Countries in the "Big Apps From Small Teams" category, February 2021 - July 2021
+🤩 Featured by  Apple in Japan in the "ロック画面で使えるウィジェット" (Widgets for the lock screen) category on the Apps tab, September 2022 - November 2022
+
+🤩 Featured by  Apple in 8 Countries in the "Big Apps From Small Teams" category on the Apps tab, June 2021 - July 2021
+
+🤩 Featured by  Apple in 8 Countries in the "Get Organised" category on the Apps tab, February 2021
+
+<sub>Source: AppFollow Featured ([Today](https://appfollow.io/featured/today/all/1528701640) and [Apps](https://appfollow.io/featured/apps/all/1528701640) tabs)</sub>
 
 <img src="images/featured_b.png" width="1024">
 
