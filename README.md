@@ -58,7 +58,7 @@ Show large text on your screen.
 
 <img src="https://www.atrinh.com/big/images/duo0.webp" width="800">
 
-<img src="images/coda.png" width="1024">
+<img src="images/coda2.png" width="800">
 
 <br>
 
