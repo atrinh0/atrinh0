@@ -16,34 +16,15 @@ Focused on building apps people love and writing modern, maintainable and well-t
 
 Large-scale consumer iOS apps I've worked on.
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://apps.apple.com/gb/app/sainsburys/id1086056964"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/8a/61/828a61d7-ddeb-4a78-2b6c-fda2068088a2/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/128x128ia-75.png" width="64" alt="Sainsbury's app icon"></a><br>
-      <b><a href="https://apps.apple.com/gb/app/sainsburys/id1086056964">Sainsbury's</a></b><br>
-      <b>Current</b><br>
-      4.7★
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://apps.apple.com/gb/app/argos-shop-tech-toys-more/id370371087"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/e4/4d/80e44da5-925b-dae4-865e-47788724c810/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/128x128ia-75.png" width="64" alt="Argos app icon"></a><br>
-      <b><a href="https://apps.apple.com/gb/app/argos-shop-tech-toys-more/id370371087">Argos</a></b><br>
-      Previously<br>
-      4.8★
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://apps.apple.com/au/app/commbank/id310251202"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/9b/35/ed9b3538-5d8b-d139-9d3f-981a128c5792/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/128x128ia-75.png" width="64" alt="CommBank app icon"></a><br>
-      <b><a href="https://apps.apple.com/au/app/commbank/id310251202">CommBank</a></b><br>
-      Previously<br>
-      4.7★
-    </td>
-  </tr>
-</table>
+Current | Previous | Previous
+--|--|--
+<a href="https://apps.apple.com/gb/app/sainsburys/id1086056964"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/8a/61/828a61d7-ddeb-4a78-2b6c-fda2068088a2/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/128x128ia-75.png" width="64" alt="Sainsbury's app icon"></a><br><a href="https://apps.apple.com/gb/app/sainsburys/id1086056964">Sainsbury's</a> | <a href="https://apps.apple.com/gb/app/argos-shop-tech-toys-more/id370371087"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/e4/4d/80e44da5-925b-dae4-865e-47788724c810/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/128x128ia-75.png" width="64" alt="Argos app icon"></a><br><a href="https://apps.apple.com/gb/app/argos-shop-tech-toys-more/id370371087">Argos</a> | <a href="https://apps.apple.com/au/app/commbank/id310251202"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/9b/35/ed9b3538-5d8b-d139-9d3f-981a128c5792/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/128x128ia-75.png" width="64" alt="CommBank app icon"></a><br><a href="https://apps.apple.com/au/app/commbank/id310251202">CommBank</a>
 
 # 🪴 Personal apps
 
 Apps I've built and published to the App Store. [Make It Big](#make-it-big) is my flagship and is still actively developed; the rest are projects where I explored a specific Apple technology end-to-end.
 
-<a href="https://www.atrinh.com/big/index.html"><img src="images/icons/big.png" width="64" height="64" style="border-radius: 10%;"></a>
+<a href="https://www.atrinh.com/big/index.html"><img src="images/icons/big.png" width="64" height="64"></a>
 &nbsp;
 <a href="https://www.atrinh.com/list/index.html"><img src="images/icons/list.png" width="64" height="64"></a>
 &nbsp;
