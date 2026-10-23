@@ -1,16 +1,89 @@
 [<img src="images/avatar2023a.png" width="720"/>](#-personal-apps)
 
-Software engineer with 14+ years in iOS development experience, focused on building apps people love and writing modern, maintainable and well-tested code.
+<b>iOS engineer, 15+ years, Swift &amp; SwiftUI</b>
+
+Focused on building apps people love and writing modern, maintainable and well-tested code.
 
 [<img src="https://ghchart.rshah.org/atrinh0" width="720">](#bottom)
 
-<a href="https://twitter.com/atrinh"><img src="images/twitter.png" width="32"/></a>
+<a href="https://www.linkedin.com/in/anhuggins/"><img src="images/linkedin.png" width="32" alt="LinkedIn"></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/atrinh0/"><img src="images/linkedin.png" width="32"/></a>
+<a href="https://x.com/atrinh"><img src="images/twitter.png" width="32" alt="X (Twitter)"></a>
 &nbsp;
-<a href="https://apple.co/3L9BesA"><img src="images/appstore.png" width="34"/></a>
+<a href="https://apple.co/3L9BesA"><img src="images/appstore.png" width="34" alt="All my apps on the App Store"></a>
 
-# A Repeatable List
+# 🌳 Work
+
+Large-scale consumer iOS apps I've worked on.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://apps.apple.com/gb/app/sainsburys/id1086056964"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/8a/61/828a61d7-ddeb-4a78-2b6c-fda2068088a2/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/128x128ia-75.png" width="64" alt="Sainsbury's app icon"></a><br>
+      <b><a href="https://apps.apple.com/gb/app/sainsburys/id1086056964">Sainsbury's</a></b><br>
+      <b>Current</b><br>
+      4.7★
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://apps.apple.com/gb/app/argos-shop-tech-toys-more/id370371087"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/e4/4d/80e44da5-925b-dae4-865e-47788724c810/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/128x128ia-75.png" width="64" alt="Argos app icon"></a><br>
+      <b><a href="https://apps.apple.com/gb/app/argos-shop-tech-toys-more/id370371087">Argos</a></b><br>
+      Previously<br>
+      4.8★
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://apps.apple.com/au/app/commbank/id310251202"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/9b/35/ed9b3538-5d8b-d139-9d3f-981a128c5792/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/128x128ia-75.png" width="64" alt="CommBank app icon"></a><br>
+      <b><a href="https://apps.apple.com/au/app/commbank/id310251202">CommBank</a></b><br>
+      Previously<br>
+      4.7★
+    </td>
+  </tr>
+</table>
+
+# 🪴 Personal apps
+
+Apps I've built and published to the App Store. [Make It Big](#make-it-big) is my flagship and is still actively developed; the rest are projects where I explored a specific Apple technology end-to-end.
+
+<a href="https://www.atrinh.com/big/index.html"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/1e/06/c5/1e06c510-f2b5-537d-e8e1-d058a2ec755f/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/128x0w.png" width="64" height="64" style="border-radius: 10%;"></a>
+&nbsp;
+<a href="https://www.atrinh.com/list/index.html"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/27/74/bd/2774bd0d-ff82-6860-ac7d-714dbc802176/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
+&nbsp;
+<a href="https://www.atrinh.com/pong/index.html"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/8b/f0/e7/8bf0e778-8267-75d7-c6b6-9bc31916aadf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/128x0w.webp" width="64" height="64"></a>
+&nbsp;
+<a href="https://www.atrinh.com/time/index.html"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b4/01/dd/b401dd80-81ef-1795-1081-3671c15a460e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
+&nbsp;
+<a href="https://www.atrinh.com/scanner/index.html"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/9e/ba/6c/9eba6cc8-c350-745d-1ce6-06d7904ca4da/AppIcon-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
+&nbsp;
+<a href="https://www.atrinh.com/zen/index.html"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/ff/32/c8/ff32c8a8-f897-ca59-e6ad-1b90de463b9d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
+&nbsp;
+<a href="https://www.atrinh.com/speech/index.html"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/13/fc/2a/13fc2aa6-4259-f77c-508d-426ea9478936/AppIcon-1x_U007emarketing-0-7-0-85-220.png/128x0w.webp" width="64" height="64"></a>
+&nbsp;
+<a href="https://www.atrinh.com/covid/index.html"><img src="https://raw.githubusercontent.com/atrinh0/covid19/master/images/Icon.png" width="64" height="64"></a>
+&nbsp;
+<a href="https://www.atrinh.com/battery/index.html"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/28/66/8d/28668db4-9ee9-04df-8646-765a707e8572/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/128x0w.png" width="64" height="64"></a>
+&nbsp;
+<a href="https://www.atrinh.com/spiro/index.html"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/90/a6/d5/90a6d561-de3b-8173-c935-c1ee9f9ec38b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/600x600bb.jpg" width="64" height="64"></a>
+
+## Make It Big
+
+<img class="logo" src="https://www.atrinh.com/big/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id479282584"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
+
+Show large text on your screen.
+
+> Over 2 million downloads, native iOS and iPadOS app built with Swift and SwiftUI, WidgetKit Home Screen and Lock Screen widgets, App Intents for Siri Shortcuts and Control Centre, App Groups for widget data sharing, share extension, custom URL-scheme deep linking, localisation in 52 locales, VoiceOver and Dynamic Type accessibility support
+
+🤩 Featured by  Apple in 41 Countries, May 2022
+
+😍 Mentioned in the App Store Story: [Discover the Apps Behind CODA](https://apps.apple.com/gb/story/id1582547591), February 2022
+
+🤩 Featured by  Apple in 23 Countries, February 2014 - June 2014
+
+<img src="https://www.atrinh.com/big/images/duo0.webp" width="800">
+
+<img src="images/coda.png" width="1024">
+
+<br>
+
+## A Repeatable List
 
 <img class="logo" src="https://www.atrinh.com/list/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1528701640"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
 
@@ -30,62 +103,7 @@ Create a list, complete it, repeat it.
 
 <br>
 
-
-
-# Make It Big
-
-<img class="logo" src="https://www.atrinh.com/big/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id479282584"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
-
-
-Show large text on your screen.
-
-> 2M+ downloads, native iOS and iPadOS app built with Swift and SwiftUI, WidgetKit Home Screen and Lock Screen widgets, App Intents for Siri Shortcuts and Control Centre, App Groups for widget data sharing, share extension, custom URL-scheme deep linking, localisation in 54 locales, VoiceOver and Dynamic Type accessibility support
-
-🤩 Featured by  Apple in 41 Countries, May 2022
-
-😍 Mentioned in the App Store Story: [Discover the Apps Behind CODA](https://apps.apple.com/gb/story/id1582547591), February 2022
-
-🤩 Featured by  Apple in 23 Countries, February 2014 - June 2014
-
-<img src="images/coda.png" width="1024">
-
-<img src="https://www.atrinh.com/big/images/duo0.webp" width="800">
-
-<br>
-
-
-
-# Point in time
-
-<img class="logo" src="https://www.atrinh.com/time/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1645785300"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
-
-Track a single point in time.
-
-> SwiftUI, ActivityKit (Dynamic island, Live activities), BackgroundTasks, CoreMotion, WidgetKit (Lock screen and Home screen widgets)
-
-<img src="https://www.atrinh.com/time/images/hero1.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/time/images/hero2.png" width="300">
-
-<br>
-
-
-
-# Speech to Image
-
-<img class="logo" src="https://www.atrinh.com/speech/images/appicon.svg" width="120">
-
-> ℹ️ Removed until a suitable image API is found (previous one is no longer maintained).
-
-A conversation visualiser. Converts your speech to images, providing context to conversations.
-
-> Swift Playgrounds 4 app, SwiftUI, Speech API (Speech Recognition), Natural Language API (to identify adjectives/nouns), Async/Await
-
-<img src="https://www.atrinh.com/speech/images/hero1.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/speech/images/hero2.png" width="300">
-
-<br>
-
-
-
-# Pong AR
+## Pong AR
 
 <img class="logo" src="https://www.atrinh.com/pong/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1561416664"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
 
@@ -99,9 +117,19 @@ Play Pong with your face!
 
 <br>
 
+## Point in time
 
+<img class="logo" src="https://www.atrinh.com/time/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1645785300"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
 
-# Code Scanner
+Track a single point in time.
+
+> SwiftUI, ActivityKit (Dynamic island, Live activities), BackgroundTasks, CoreMotion, WidgetKit (Lock screen and Home screen widgets)
+
+<img src="https://www.atrinh.com/time/images/hero1.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/time/images/hero2.png" width="300">
+
+<br>
+
+## Code Scanner
 
 <img class="logo" src="https://www.atrinh.com/scanner/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1584185919"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
 
@@ -113,9 +141,7 @@ Scans for codes using your camera, or from an image in your photos.
 
 <br>
 
-
-
-# Zen AF
+## Zen AF
 
 <img class="logo" src="https://www.atrinh.com/zen/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1569426267"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
 
@@ -127,9 +153,21 @@ Minimalist Pomodoro Timer.
 
 <br>
 
+## Speech to Image
 
+<img class="logo" src="https://www.atrinh.com/speech/images/appicon.svg" width="120">
 
-# UK COVID-19 Statistics
+> ℹ️ Removed until a suitable image API is found (previous one is no longer maintained).
+
+A conversation visualiser. Converts your speech to images, providing context to conversations.
+
+> Swift Playgrounds 4 app, SwiftUI, Speech API (Speech Recognition), Natural Language API (to identify adjectives/nouns), Async/Await
+
+<img src="https://www.atrinh.com/speech/images/hero1.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/speech/images/hero2.png" width="300">
+
+<br>
+
+## UK COVID-19 Statistics
 
 <img class="logo" src="https://www.atrinh.com/covid/images/appicon.svg" width="120"><br><a href="https://github.com/atrinh0/covid19"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 
@@ -141,9 +179,7 @@ Track the latest coronavirus (COVID-19) daily new cases and deaths in the UK.
 
 <br>
 
-
-
-# Battery Level - Portal
+## Battery Level - Portal
 
 <img class="logo" src="https://www.atrinh.com/battery/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1458111693"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
 
@@ -155,9 +191,7 @@ Monitor the current battery level of your device. As you charge your device, the
 
 <br>
 
-
-
-# Spiro
+## Spiro
 
 <img class="logo" src="https://www.atrinh.com/spiro/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1602980337"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a><br><a href="https://github.com/atrinh0/spiro"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 
@@ -169,9 +203,7 @@ An interactive animating spirograph generator.
 
 <br>
 
-
-
-# SF Symbols Browser
+## SF Symbols Browser
 
 <a href="https://github.com/atrinh0/sfsymbols"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 
@@ -183,9 +215,7 @@ SwiftUI app to search and showcase SF Symbols. 🔎
 
 <br>
 
-
-
-# buttoncraft
+## buttoncraft
 
 <a href="https://github.com/atrinh0/buttoncraft"><img src="https://www.atrinh.com/covid/images/github.svg" width="120"></a>
 
@@ -197,51 +227,19 @@ SwiftUI app to allow other developers craft that perfect SwiftUI button effect. 
 
 <br>
 
-
-
 # 🌱 Open source projects & experiments
 
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=atrinh0&repo=buttoncraft">](https://github.com/atrinh0/buttoncraft)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=atrinh0&repo=sfsymbols">](https://github.com/atrinh0/sfsymbols)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=atrinh0&repo=covid19">](https://github.com/atrinh0/covid19)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=atrinh0&repo=spiro">](https://github.com/atrinh0/spiro)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=atrinh0&repo=wwdc22">](https://github.com/atrinh0/wwdc22)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=atrinh0&repo=appleid-animation">](https://github.com/atrinh0/appleid-animation)
+Small, focused projects I've shared to help others learn SwiftUI, ordered by GitHub stars.
 
-# 🪴 Personal apps
-
-<a href="https://www.atrinh.com/list/index.html"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/27/74/bd/2774bd0d-ff82-6860-ac7d-714dbc802176/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
-&nbsp;
-<a href="https://www.atrinh.com/big/index.html"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/1e/06/c5/1e06c510-f2b5-537d-e8e1-d058a2ec755f/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/128x0w.png" width="64" height="64" style="border-radius: 10%;"></a>
-&nbsp;
-<a href="https://www.atrinh.com/time/index.html"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b4/01/dd/b401dd80-81ef-1795-1081-3671c15a460e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
-&nbsp;
-<a href="https://www.atrinh.com/speech/index.html"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/13/fc/2a/13fc2aa6-4259-f77c-508d-426ea9478936/AppIcon-1x_U007emarketing-0-7-0-85-220.png/128x0w.webp" width="64" height="64"></a>
-&nbsp;
-<a href="https://www.atrinh.com/pong/index.html"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/8b/f0/e7/8bf0e778-8267-75d7-c6b6-9bc31916aadf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/128x0w.webp" width="64" height="64"></a>
-&nbsp;
-<a href="https://www.atrinh.com/scanner/index.html"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/9e/ba/6c/9eba6cc8-c350-745d-1ce6-06d7904ca4da/AppIcon-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
-&nbsp;
-<a href="https://www.atrinh.com/zen/index.html"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/ff/32/c8/ff32c8a8-f897-ca59-e6ad-1b90de463b9d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/128x0w.png" width="64" height="64"></a>
-&nbsp;
-<a href="https://www.atrinh.com/covid/index.html"><img src="https://raw.githubusercontent.com/atrinh0/covid19/master/images/Icon.png" width="64" height="64"></a>
-&nbsp;
-<a href="https://www.atrinh.com/battery/index.html"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/28/66/8d/28668db4-9ee9-04df-8646-765a707e8572/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/128x0w.png" width="64" height="64"></a>
-&nbsp;
-<a href="https://www.atrinh.com/spiro/index.html"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/90/a6/d5/90a6d561-de3b-8173-c935-c1ee9f9ec38b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/600x600bb.jpg" width="64" height="64"></a>
-
-# 🌳 Work (current)
-
-<a href="https://apps.apple.com/gb/app/sainsburys-groceries/id1086056964"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/87/38/eb/8738eb57-5334-c4b7-c907-1bd832475c9e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/128x0w.png" width="64" height="64"></a>
-
-# 🌲 Work (past)
-
-<a href="https://apps.apple.com/gb/app/argos/id370371087"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/96/0b/3f960b00-809a-f2b0-c68e-5d8511bbb024/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/128x0w.png" width="64" height="64"></a>
-&nbsp;
-<a href="https://apps.apple.com/gb/app/sainsburys-groceries/id1086056964"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/87/38/eb/8738eb57-5334-c4b7-c907-1bd832475c9e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/128x0w.png" width="64" height="64"></a>
-&nbsp;
-<a href="https://apps.apple.com/au/app/commbank/id310251202"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/b0/93/e9/b093e907-b7f0-8e43-d1ca-71abccb03eea/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/128x0w.png" width="64" height="64"></a>
-&nbsp;
-<a href="https://apps.apple.com/au/app/commbank-property/id375054462"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/16/15/a616154c-9b87-befa-b2bc-a499eb30a9fe/AppIcon-0-1x_U007emarketing-0-0-85-220-0-5.png/128x0w.png" width="64" height="64"></a>
+| Project | What it is | ⭐&nbsp;Stars |
+|--|--|--|
+| **[buttoncraft](https://github.com/atrinh0/buttoncraft)** | Design a SwiftUI button style visually, randomise for inspiration, then copy the generated `ButtonStyle` code. | ⭐&nbsp;447 |
+| **[SF Symbols Browser](https://github.com/atrinh0/sfsymbols)** | Search, sort and showcase SF Symbols. A tour of `.searchable`, text selection, multiple sheet presentation and more. | ⭐&nbsp;135 |
+| **[wwdc22](https://github.com/atrinh0/wwdc22)** | The WWDC22 artwork recreated in SwiftUI. | ⭐&nbsp;88 |
+| **[appleid-animation](https://github.com/atrinh0/appleid-animation)** | The animation on appleid.apple.com recreated in SwiftUI. | ⭐&nbsp;62 |
+| **[spiro](https://github.com/atrinh0/spiro)** | Animated spirograph generator, created on iPad as a Swift Playgrounds 4 app and [published to the App Store](https://apps.apple.com/app/id1602980337). | ⭐&nbsp;58 |
+| **[covid19](https://github.com/atrinh0/covid19)** | UK COVID-19 statistics app with Swift Charts, a widget, background refresh and local notifications. | ⭐&nbsp;43 |
+| **[chart-de-lune](https://github.com/atrinh0/chart-de-lune)** | Composing music with Swift Charts and VoiceOver audio graph descriptors: a chart that plays Debussy's *Clair de Lune*. | ⭐&nbsp;42 |
+| **[SciFiChallenge](https://github.com/atrinh0/SciFiChallenge)** | A Star Trek LCARS-inspired UI built with SwiftUI, Swift Charts, WeatherKit and Grid. | ⭐&nbsp;31 |
 
 <a name="bottom"></a>
