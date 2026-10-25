@@ -64,7 +64,7 @@ Show large text on your screen.
 
 <sub>Source: AppFollow Featured ([Today](https://appfollow.io/featured/today/all/479282584) and [Apps](https://appfollow.io/featured/apps/all/479282584) tabs)</sub>
 
-<img src="https://www.atrinh.com/big/images/duo0.webp" width="800">
+<img src="https://www.atrinh.com/big/images/duo1.webp" width="800">
 
 [<img src="images/coda2.png" width="800">](https://apps.apple.com/gb/story/id1582547591)
 
