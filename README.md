@@ -48,7 +48,7 @@ Apps I've built and published to the App Store. [Make It Big](#make-it-big) is m
 
 Show large text on your screen.
 
-> Over 2 million downloads, native iOS and iPadOS app built with Swift and SwiftUI, WidgetKit Home Screen and Lock Screen widgets, App Intents for Siri Shortcuts and Control Centre, App Groups for widget data sharing, share extension, custom URL-scheme deep linking, localisation in 52 locales, VoiceOver and Dynamic Type accessibility support
+> Over 2 million downloads, native iOS and iPadOS app built with Swift and SwiftUI, WidgetKit Home Screen and Lock Screen widgets, App Intents for Siri Shortcuts and Control Centre, App Groups for widget data sharing, share extension, custom URL-scheme deep linking, localisation to support 52 languages, VoiceOver and Dynamic Type accessibility support
 
 🤩 Featured by  Apple in 41 Countries on the Today tab, February 2022 - May 2022, including 40 countries on 19 May 2022
 
@@ -76,7 +76,7 @@ Show large text on your screen.
 
 Create a list, complete it, repeat it.
 
-> SwiftUI, App Clip, Lock Screen Widgets, Home Screen Widgets, Drag & drop support, Dark mode support, Voiceover & Dynamic Text support, Localised to 32 languages, Taptic feedback
+> SwiftUI, UIKit integration, App Clip target, WidgetKit (Home Screen and Lock Screen widgets), interactive widgets with App Intents, App Groups for shared app/widget data, local JSON persistence, StoreKit, drag and drop, list reordering, VoiceOver accessibility, Dynamic Type, light and dark appearance, localisation to support 32 languages, haptic feedback, responsive iPhone and iPad layouts, SwiftLint.
 
 🤩 Featured by  Apple in Japan in the "ロック画面にウィジェットを追加" (Add widgets to the lock screen) Today tab story, 14 September 2022, the day after shipping iOS 16 Lock Screen widgets
 
