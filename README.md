@@ -76,7 +76,7 @@ Show large text on your screen.
 
 Create a list, complete it, repeat it.
 
-> SwiftUI, UIKit integration, App Clip target, WidgetKit (Home Screen and Lock Screen widgets), interactive widgets with App Intents, App Groups for shared app/widget data, local JSON persistence, StoreKit, drag and drop, list reordering, VoiceOver accessibility, Dynamic Type, light and dark appearance, localisation to support 32 languages, haptic feedback, responsive iPhone and iPad layouts, SwiftLint.
+> SwiftUI, UIKit integration, App Clip target, WidgetKit (Home Screen and Lock Screen widgets), interactive widgets with App Intents, App Groups for shared app/widget data, local JSON persistence, StoreKit, drag and drop, list reordering, VoiceOver accessibility, Dynamic Type, light and dark appearance, localisation to support 43 languages, haptic feedback, responsive iPhone and iPad layouts, SwiftLint.
 
 🤩 Featured by  Apple in Japan in the "ロック画面にウィジェットを追加" (Add widgets to the lock screen) Today tab story, 14 September 2022, the day after shipping iOS 16 Lock Screen widgets
 
