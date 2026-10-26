@@ -90,7 +90,7 @@ Create a list, complete it, repeat it.
 
 <img src="images/featured_b.png" width="1024">
 
-<img src="https://www.atrinh.com/list/images/hero7.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/hero8.png" width="300">
+<img src="https://www.atrinh.com/list/images/duo0.webp" width="800">
 
 <img src="images/appclipanim.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/appclip.png" width="200">
 
