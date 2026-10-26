@@ -88,9 +88,9 @@ Create a list, complete it, repeat it.
 
 <sub>Source: AppFollow Featured ([Today](https://appfollow.io/featured/today/all/1528701640) and [Apps](https://appfollow.io/featured/apps/all/1528701640) tabs)</sub>
 
-<img src="images/featured_b.png" width="1024">
-
 <img src="https://www.atrinh.com/list/images/duo0.webp" width="800">
+
+<img src="images/featured_b.png" width="800">
 
 <img src="images/appclipanim.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/appclip.png" width="200">
 
