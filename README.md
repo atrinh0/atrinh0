@@ -66,7 +66,7 @@ Show large text on your screen.
 
 <img src="https://www.atrinh.com/big/images/duo1.webp" width="800">
 
-[<img src="images/coda2.png" width="800">](https://apps.apple.com/gb/story/id1582547591)
+[<img src="images/coda2.webp" width="800">](https://apps.apple.com/gb/story/id1582547591)
 
 <br>
 
@@ -90,9 +90,9 @@ Create a list, complete it, repeat it.
 
 <img src="https://www.atrinh.com/list/images/duo0.webp" width="800">
 
-<img src="images/featured_b.png" width="800">
+<img src="images/featured_b.webp" width="800">
 
-<img src="images/appclipanim.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/appclip.png" width="200">
+<img src="images/appclipanim.webp" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/list/images/appclip.png" width="200">
 
 <br>
 
@@ -106,7 +106,7 @@ Play Pong with your face!
 
 <img src="https://www.atrinh.com/pong/images/duo0.webp" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/pong/images/duo1.webp" width="400">
 
-<img src="images/ponganim.gif" width="260"/>
+<img src="images/ponganim.webp" width="260"/>
 
 <br>
 
