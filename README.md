@@ -104,7 +104,7 @@ Play Pong with your face!
 
 > SwiftUI, ARKit, SpriteKit, GameKit (Game Center leaderboard), Taptic feedback
 
-<img src="https://www.atrinh.com/pong/images/hero5.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/pong/images/hero6.png" width="300">
+<img src="https://www.atrinh.com/pong/images/duo0.webp" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.atrinh.com/pong/images/duo1.webp" width="400">
 
 <img src="images/ponganim.gif" width="260"/>
 
