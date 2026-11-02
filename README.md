@@ -134,7 +134,7 @@ Scans for codes using your camera, or from an image in your photos.
 
 <br>
 
-## Zen AF
+## Zen: Pomodoro Focus Timer
 
 <img class="logo" src="https://www.atrinh.com/zen/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id1569426267"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
 
