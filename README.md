@@ -76,7 +76,7 @@ Show large text on your screen.
 
 Create a list, complete it, repeat it.
 
-> SwiftUI, UIKit integration, App Clip target, WidgetKit (Home Screen and Lock Screen widgets), interactive widgets with App Intents, App Groups for shared app/widget data, local JSON persistence, StoreKit, drag and drop, list reordering, VoiceOver accessibility, Dynamic Type, light and dark appearance, localisation to support 43 languages, haptic feedback, responsive iPhone and iPad layouts, SwiftLint.
+> SwiftUI, UIKit integration, App Clip target, WidgetKit (Home Screen and Lock Screen widgets), interactive widgets with App Intents, App Groups for shared app/widget data, local JSON persistence, StoreKit, drag and drop, list reordering, VoiceOver accessibility, Dynamic Type, light and dark appearance, localisation to support 43 languages, Taptic feedback, responsive iPhone and iPad layouts, SwiftLint.
 
 🤩 Featured by  Apple in Japan in the "ロック画面にウィジェットを追加" (Add widgets to the lock screen) Today tab story, 14 September 2022, the day after shipping iOS 16 Lock Screen widgets
 
@@ -140,7 +140,7 @@ Scans for codes using your camera, or from an image in your photos.
 
 Minimalist Pomodoro Timer.
 
-> Swift, SwiftUI, AVKit and AirPlay, TipKit, iPhone Duo adaptive layouts for device poses (book pose and laptop pose)
+> SwiftUI, iPhone Duo adaptive layouts for book-like and laptop-like device poses, Taptic feedback, AVKit and AirPlay, TipKit, localisation to support 46 languages, VoiceOver-accessible controls
 
 <img src="https://www.atrinh.com/zen/images/duo0.webp" width="800">
 
