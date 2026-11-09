@@ -44,6 +44,8 @@ Apps I've built and published to the App Store. [Make It Big](#make-it-big) is m
 
 ## Make It Big
 
+**2M+ downloads · ⭐ 4.76/5 from 6,426 ratings · Featured by Apple**
+
 <img class="logo" src="https://www.atrinh.com/big/images/appicon.svg" width="120"><br><a href="https://apps.apple.com/us/app/id479282584"><img src="https://www.atrinh.com/list/images/download.svg" width="120"></a>
 
 Show large text on your screen.
